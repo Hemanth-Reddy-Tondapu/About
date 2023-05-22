@@ -57,7 +57,7 @@ I am constantly exploring new technologies and tools in the DevOps landscape. So
 
 ## Contact
 
-Feel free to reach out to me via email at [your-email@example.com](mailto:hrt96devops@gmail.com) or connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hemanth-reddy-tondapu/).
+Feel free to reach out to me via email at [hrt96devops@gmail.com](mailto:hrt96devops@gmail.com) or connect with me on LinkedIn: [Hemanth Reddy Tondapu](https://www.linkedin.com/in/hemanth-reddy-tondapu/).
 
 I look forward to connecting and collaborating on exciting DevOps projects!
 
