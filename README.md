@@ -5,19 +5,21 @@ Welcome to my GitHub profile! 🚀 This README file provides an overview of my s
 I am a seasoned DevOps engineer with a passion for automating processes, optimizing infrastructure, and enhancing software development practices. I have extensive experience working in cross-functional teams and collaborating with developers, system administrators, and other stakeholders to deliver reliable and scalable solutions.
 
 ## Skills 🛠️
-DevOps Tools: Proficient in a wide range of DevOps tools and technologies, including:
+### DevOps Tools: 
+Proficient in a wide range of DevOps tools and technologies, including:
 Continuous Integration/Continuous Deployment (CI/CD) tools like Jenkins, GitLab CI/CD, and ArgoCD. 🔄
-
 Infrastructure-as-Code (IaC) tools such as Terraform, CloudFormation, and Ansible. 🏗️
 Containerization platforms like Docker and container orchestration tools like Kubernetes. 🐳
 Configuration management tool like Ansible. ⚙️
 Version control system like Git. 🗂️
 Monitoring and logging tools like Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), and Datadog. 📊📈
 
-Cloud Platforms: Extensive experience in deploying and managing applications on various cloud platforms, including:
+### Cloud Platforms: 
+Extensive experience in deploying and managing applications on various cloud platforms, including:
 Amazon Web Services (AWS), including EC2, S3, RDS, IAM, CloudFormation, and more. ☁️
 Microsoft Azure, including Virtual Machines, Azure Functions, Azure DevOps, and more. ☁️
 Google Cloud Platform (GCP), including Compute Engine, Cloud Storage, Kubernetes Engine, and more. ☁️
+
 
 ### Scripting and Programming Languages: 
 Intermediate in scripting languages like Bash, PowerShell, and Python. Additionally, I have basic knowledge of programming languages such as Java and JavaScript. 🚀
