@@ -7,6 +7,7 @@ I am a seasoned DevOps engineer with a passion for automating processes, optimiz
 ## Skills 🛠️
 DevOps Tools: Proficient in a wide range of DevOps tools and technologies, including:
 Continuous Integration/Continuous Deployment (CI/CD) tools like Jenkins, GitLab CI/CD, and ArgoCD. 🔄
+
 Infrastructure-as-Code (IaC) tools such as Terraform, CloudFormation, and Ansible. 🏗️
 Containerization platforms like Docker and container orchestration tools like Kubernetes. 🐳
 Configuration management tool like Ansible. ⚙️
