@@ -26,12 +26,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Hemanth-Reddy-Tondapu&icon=3&color=8)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/hemanthreddy) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/hemanthreddy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hemanthreddy" /></a></p><br><br>
 
