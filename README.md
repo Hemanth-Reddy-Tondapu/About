@@ -1,61 +1,28 @@
-# 👨‍💻 Sr. DevOps Engineer
-Welcome to my GitHub profile! 🚀 This README file provides an overview of my skills, experience, and interests in the field.
-
-## About Me 💡
-I am a seasoned DevOps engineer with a passion for automating processes, optimizing infrastructure, and enhancing software development practices. I have extensive experience working in cross-functional teams and collaborating with developers, system administrators, and other stakeholders to deliver reliable and scalable solutions.
-
-## Skills 🛠️
-### DevOps Tools: 
-Proficient in a wide range of DevOps tools and technologies, including:
-Continuous Integration/Continuous Deployment (CI/CD) tools like Jenkins, GitLab CI/CD, and ArgoCD. 🔄
-Infrastructure-as-Code (IaC) tools such as Terraform, CloudFormation, and Ansible. 🏗️
-Containerization platforms like Docker and container orchestration tools like Kubernetes. 🐳
-Configuration management tool like Ansible. ⚙️
-Version control system like Git. 🗂️
-Monitoring and logging tools like Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), and Datadog. 📊📈
-
-### Cloud Platforms: 
-Extensive experience in deploying and managing applications on various cloud platforms, including:
-Amazon Web Services (AWS), including EC2, S3, RDS, IAM, CloudFormation, and more. ☁️
-Microsoft Azure, including Virtual Machines, Azure Functions, Azure DevOps, and more. ☁️
-Google Cloud Platform (GCP), including Compute Engine, Cloud Storage, Kubernetes Engine, and more. ☁️
+# 💫 About Me:
+🔭 I’m currently working as Cloud Platform Engineer.<br>👯 I’m looking to collaborate on ......... Idk😒<br>🌱 I’m currently learning ........ Idk😒<br>💬 Ask me about ....... Nothing😂<br>⚡ Fun fact ........ 🤡
 
 
-### Scripting and Programming Languages: 
-Intermediate in scripting languages like Bash, PowerShell, and Python. Additionally, I have basic knowledge of programming languages such as Java and JavaScript. 🚀
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reddi_gari_abbaye) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hemanth-reddy-tondapu/) 
 
-### Infrastructure Monitoring and Automation
-Skilled in designing and implementing monitoring solutions to ensure high availability and performance. I have experience with tools like Nagios, Prometheus, Grafana, and automated incident response systems. 📡🤖
+# 💻 Tech Stack:
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=plastic&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=plastic&logo=vagrant&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=plastic&logo=rancher&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=plastic&logo=webflow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hemanth-Reddy-Tondapu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hemanth-Reddy-Tondapu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth-Reddy-Tondapu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Security and Compliance: Familiar with security best practices and implementing security measures in CI/CD pipelines, cloud infrastructure, and application deployments. Knowledgeable about compliance standards like HIPAA and GDPR. 🔒
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hemanth-Reddy-Tondapu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# Experience 💼
-### 🏢 Shazab Futuretech Solutions (Senior DevOps Engineer)
-Developed and maintained CI/CD pipelines, allowing for automated software releases and deployment.
-Implemented infrastructure automation using tools like Terraform and Ansible, resulting in improved efficiency and reduced manual effort.
-Collaborated with development teams to optimize application performance, scalability, and availability.
-Designed and implemented monitoring and alerting systems to proactively identify and address performance issues.
-Conducted regular security audits and implemented measures to ensure compliance with industry standards.
-Mentored junior team members and provided guidance on DevOps best practices.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hemanth-Reddy-Tondapu&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 
-### 🏢 Ventech Software Solutions (DevOps Engineer)
-Managed and supported cloud infrastructure on AWS, including provisioning and configuring EC2 instances, managing security groups, and setting up networking.
-Streamlined deployment processes by implementing CI/CD pipelines using Jenkins and GitLab CI/CD.
-Collaborated with development teams to optimize application performance and scalability.
-Improved infrastructure reliability by implementing automated backups and disaster recovery procedures.
-Conducted regular performance and load testing to identify bottlenecks and optimize system resources.
+---
+[![](https://visitcount.itsvg.in/api?id=Hemanth-Reddy-Tondapu&icon=3&color=8)](https://visitcount.itsvg.in)
 
-## Interests 🌟
-I am constantly exploring new technologies and tools in the DevOps landscape. Some of my current areas of interest include:
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/hemanthreddy) 
 
-Serverless architectures and technologies like AWS Lambda, Azure Functions, and Google Cloud Functions. 🌩️
-Kubernetes and container orchestration. 🌐
-Infrastructure optimization and cost management in the cloud. 💰
-Machine learning operations (MLOps) and the integration of ML models into production systems. 🤖🧠
-
-## Contact 📞
-
-Feel free to reach out to me via email at [hrt96devops@gmail.com](mailto:hrt96devops@gmail.com) or connect with me on LinkedIn: [Hemanth Reddy Tondapu](https://www.linkedin.com/in/hemanth-reddy-tondapu/).
-
-I look forward to connecting and collaborating on exciting DevOps projects! 🤝✨
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
