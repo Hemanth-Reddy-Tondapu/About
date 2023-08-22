@@ -6,7 +6,6 @@
 # 💫 About Me:
 🔭 I’m currently working as Cloud Platform Engineer.<br>👯 I’m looking to collaborate on ......... Idk😒<br>🌱 I’m currently learning ........ Idk😒<br>💬 Ask me about ....... Nothing😂<br>⚡ Fun fact ........ 🤡
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reddi_gari_abbaye) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hemanth-reddy-tondapu/) 
 
@@ -16,14 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hemanth-Reddy-Tondapu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hemanth-Reddy-Tondapu&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Hemanth-Reddy-Tondapu&icon=3&color=8)](https://visitcount.itsvg.in)
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/hemanthreddy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hemanthreddy" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth-Reddy-Tondapu&hide_progress=true&theme=radical" alt=Hemanth-Reddy-Tondapu />
@@ -45,3 +37,8 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanth-Reddy-Tondapu&theme=react"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/hemanthreddy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hemanthreddy" /></a></p><br><br>
+---
+[![](https://visitcount.itsvg.in/api?id=Hemanth-Reddy-Tondapu&icon=3&color=8)](https://visitcount.itsvg.in)
